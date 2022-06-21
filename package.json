@@ -1,0 +1,24 @@
+{
+  "name": "typeScript-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alextaypan/typeScript-practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alextaypan/typeScript-practise/issues"
+  },
+  "homepage": "https://github.com/alextaypan/typeScript-practise#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
